@@ -1,0 +1,67 @@
+body {
+font-family: 'Roboto', sans-serif;
+color:#707070;
+font-size: 16px;
+}
+
+
+h4 {
+font-weight: 300;
+font-size: 20px;
+}
+
+h5 {
+font-size: 21px;
+
+}
+p {
+font-weight: 300;
+}
+
+.navbar-brand {
+width:40%;
+}
+
+.navbar-brand img {
+width: 100%;
+max-width: 125px;
+
+}
+
+.bg-color-nav{
+background-color: #212529;
+}
+
+.card-text-product {
+margin-bottom: 0;
+}
+
+.text-price-final {
+font-size: 22px;
+color: #28a745;
+font-weight: 500;
+}
+
+.text-price {
+text-align: right;
+font-weight: 300;
+padding-left: 5px;
+margin-bottom: 0;
+}
+
+
+.text-direction {
+font-size: 13px;
+}
+
+::placeholder {
+  color: #F8F9FA;
+  font-weight: 300;
+}
+
+
+.logo-footer img{
+  width: 100%;
+  max-width: 70px;
+
+}
